@@ -1,0 +1,14 @@
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\obj\Debug\net8.0\TaskList.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\obj\Debug\net8.0\TaskList.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\obj\Debug\net8.0\TaskList.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\obj\Debug\net8.0\TaskList.Infrastructure.AssemblyInfo.cs
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\obj\Debug\net8.0\TaskList.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\bin\Debug\net8.0\TaskList.Infrastructure.deps.json
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\bin\Debug\net8.0\TaskList.Infrastructure.runtimeconfig.json
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\bin\Debug\net8.0\TaskList.Infrastructure.dll
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\bin\Debug\net8.0\TaskList.Infrastructure.pdb
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\obj\Debug\net8.0\TaskList.Infrastructure.dll
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\obj\Debug\net8.0\refint\TaskList.Infrastructure.dll
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\obj\Debug\net8.0\TaskList.Infrastructure.pdb
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\obj\Debug\net8.0\TaskList.Infrastructure.genruntimeconfig.cache
+C:\Users\overk\RiderProjects\TaskList\TaskList.Infrastructure\obj\Debug\net8.0\ref\TaskList.Infrastructure.dll

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskList.Infrastructure", "TaskList.Infrastructure\TaskList.Infrastructure.csproj", "{2E1DC3E6-3AE4-452D-81E0-B24214069B9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskList.Api", "TaskList.Api\TaskList.Api.csproj", "{512D462A-DE9C-4D1B-9314-109B6D997F9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E1DC3E6-3AE4-452D-81E0-B24214069B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1DC3E6-3AE4-452D-81E0-B24214069B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1DC3E6-3AE4-452D-81E0-B24214069B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1DC3E6-3AE4-452D-81E0-B24214069B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512D462A-DE9C-4D1B-9314-109B6D997F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512D462A-DE9C-4D1B-9314-109B6D997F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512D462A-DE9C-4D1B-9314-109B6D997F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512D462A-DE9C-4D1B-9314-109B6D997F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
