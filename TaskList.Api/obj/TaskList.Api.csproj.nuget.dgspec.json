@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\overk\\RiderProjects\\TaskList\\TaskList.Api\\TaskList.Api.csproj": {}
+    "C:\\Users\\oven\\RiderProjects\\TaskListIntern_Backend\\TaskList.Api\\TaskList.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\overk\\RiderProjects\\TaskList\\TaskList.Api\\TaskList.Api.csproj": {
+    "C:\\Users\\oven\\RiderProjects\\TaskListIntern_Backend\\TaskList.Api\\TaskList.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\overk\\RiderProjects\\TaskList\\TaskList.Api\\TaskList.Api.csproj",
+        "projectUniqueName": "C:\\Users\\oven\\RiderProjects\\TaskListIntern_Backend\\TaskList.Api\\TaskList.Api.csproj",
         "projectName": "TaskList.Api",
-        "projectPath": "C:\\Users\\overk\\RiderProjects\\TaskList\\TaskList.Api\\TaskList.Api.csproj",
-        "packagesPath": "C:\\Users\\overk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\overk\\RiderProjects\\TaskList\\TaskList.Api\\obj\\",
+        "projectPath": "C:\\Users\\oven\\RiderProjects\\TaskListIntern_Backend\\TaskList.Api\\TaskList.Api.csproj",
+        "packagesPath": "C:\\Users\\oven\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oven\\RiderProjects\\TaskListIntern_Backend\\TaskList.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\overk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\oven\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\overk\\RiderProjects\\TaskList\\TaskList.Infrastructure\\TaskList.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\overk\\RiderProjects\\TaskList\\TaskList.Infrastructure\\TaskList.Infrastructure.csproj"
+              "C:\\Users\\oven\\RiderProjects\\TaskListIntern_Backend\\TaskList.Infrastructure\\TaskList.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\oven\\RiderProjects\\TaskListIntern_Backend\\TaskList.Infrastructure\\TaskList.Infrastructure.csproj"
               }
             }
           }
@@ -36,6 +36,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -94,21 +99,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\overk\\RiderProjects\\TaskList\\TaskList.Infrastructure\\TaskList.Infrastructure.csproj": {
+    "C:\\Users\\oven\\RiderProjects\\TaskListIntern_Backend\\TaskList.Infrastructure\\TaskList.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\overk\\RiderProjects\\TaskList\\TaskList.Infrastructure\\TaskList.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\oven\\RiderProjects\\TaskListIntern_Backend\\TaskList.Infrastructure\\TaskList.Infrastructure.csproj",
         "projectName": "TaskList.Infrastructure",
-        "projectPath": "C:\\Users\\overk\\RiderProjects\\TaskList\\TaskList.Infrastructure\\TaskList.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\overk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\overk\\RiderProjects\\TaskList\\TaskList.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\oven\\RiderProjects\\TaskListIntern_Backend\\TaskList.Infrastructure\\TaskList.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\oven\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oven\\RiderProjects\\TaskListIntern_Backend\\TaskList.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\overk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\oven\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -126,6 +131,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -181,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
